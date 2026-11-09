@@ -1,26 +1,26 @@
-Instalación de la API
+# Instalación de la API
 
-Requisitos previos
+#### Requisitos previos
 
-Node.js 18 o superior
-npm
-Git
+- Node.js 18 o superior
+- npm
+- Git
 
-Pasos de instalación
+#### Pasos de instalación
 
-Clonar el repositorio
-Acceder al directorio api
-Instalar las dependencias
-Iniciar el servidor
+- Clonar el repositorio
+- Acceder al directorio api
+- Instalar las dependencias
+- Iniciar el servidor
 
-Comandos
+#### Comandos
 
-cd api
-npm install
-npm start
+- `cd api`
+- `npm install`
+- `npm start`
 
-Dirección del servicio
+**Dirección del servicio**
 
 http://localhost:3000
 
-IMPORTANTE: El servidor debe estar iniciado para realizar las pruebas.
+**IMPORTANTE**: *El servidor debe estar iniciado para realizar las pruebas.*
